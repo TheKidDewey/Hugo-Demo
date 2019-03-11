@@ -35,7 +35,7 @@ sections:
   path: _data/information.yml
   label: Contact Information
 upload_dir: https://res.cloudinary.com/dm8cdyvyw/image/upload
-public_path: ''
+public_path: https://res.cloudinary.com/dm8cdyvyw/media_library
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
