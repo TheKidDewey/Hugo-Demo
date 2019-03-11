@@ -34,8 +34,8 @@ sections:
 - type: document
   path: _data/information.yml
   label: Contact Information
-upload_dir: https://res.cloudinary.com/dm8cdyvyw/image/upload
-public_path: https://res.cloudinary.com/dm8cdyvyw/image/upload/v1552309439/Personal%20Page
+upload_dir: Personal%20Page
+public_path: "/Personal%20Page"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
