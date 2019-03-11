@@ -34,8 +34,8 @@ sections:
 - type: document
   path: _data/information.yml
   label: Contact Information
-upload_dir: Personal%20Page
-public_path: "/Personal%20Page"
+upload_dir: Personal Page
+public_path: "/Personal Page"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
